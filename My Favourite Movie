@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Favourite Movie</title>
+    </head>
+  <body>
+    <div id="Media">
+      <a href="https://www.imdb.com/title/tt2278388/">
+      <img src="https://i.discogs.com/w8sVw0Xg9t0I2fmfyFINXHg8MqvhMRSkdoe2iGy9l4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDQ1/NzMtMTQwMDQyNTM0/Mi00NDU3LmpwZWc.jpeg" alt="Grand Budapest Hotel movie poster"/>
+      </a>
+      </div>
+    <header>
+      <h1>My Favourite Movie: The Grand Budapest Hotel</h1>
+      </header>
+    <section id="A brief look">
+          <h2>A Brief Look</h2>
+          <p>The Grand Budapest Hotel is a captivating movie from start to finish, from the acting to the cinematography to the score.Everything about this movie is fun and colourful, and director Wes Anderson takes his audience into a bright and imaginative world with a brilliant cast.<br>This movie is a must watch for anyone who wants to watch an aesthetically pleasing and quirky comedy.</p>
+         </section>
+    <div id="Cast List">
+      <h3>Cast List</h3>
+       <ul>
+        <li>Ralph Fiennes as M. Gustave</li>
+        <li>Tony Revolori as Zero</li>
+        <li>Saoirse Ronan as Agatha</li>
+        <li>Jeff Goldblum as Deputy Kovacs</li>
+        <li>Willem Dafoe as Jopling</li>
+        <li>Adrien Brody as Dmitri</li>
+        </ul>
+        </div>
+    <div id="Best Line">
+       <h3>Best Line from the Movie</h3>
+      <p>"M. Gustave: There's really no point in doing anything in life because it's all over in the blink of an eye, and the next thing you know, rigor mortis sets in."</p>
+     </div>
+   <div id="Story Rating">
+     <label>Story:</label>
+     <progress id="Story" max="100" value="100"></progress>
+     </div>
+   <div id="Cast Rating">
+      <label>Cast</label>
+      <progress id="Cast" max="100" value="100"></progress>
+      </div>
+   <div id="Ending Rating">
+      <label>Ending</label>
+      <progress id="Ending" max="100" value="100"></progress>
+      </div>
+   <footer>
+      <p><b><mark>Note to self: Watch more Wes Anderson movies (and take inspiration from this movie and do some writing in a fancy hotel).</mark></b></p>
+      </footer>
+   <meta name="Assignment" content="My Favourite Movie">
+   <p>RE, 02/10/2023</p>
+   </body>
+ </html>
